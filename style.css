@@ -209,3 +209,27 @@ footer {
 .copy-footer {
    margin: 20px;
 }
+
+@media (max-width: 890px) {
+   header {
+      height: auto;
+      font-size: 30px;
+   }
+   .logo img {
+      display: none;
+   }
+   .section-area1 {
+      flex-direction: column;
+      height: auto;
+   }
+   .services-area {
+      margin-left: 20px;
+      margin-right: 20px;
+      width: auto;
+   }
+   .open-desc {
+      margin: 20px;
+   }
+
+
+}
