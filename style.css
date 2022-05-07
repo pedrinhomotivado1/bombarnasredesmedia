@@ -62,6 +62,10 @@ header {
    text-transform: uppercase;
    color: rgb(41, 41, 41);
 }
+.active a {   
+   background-color: black;
+   color: #efb810;
+}
 
 /* banner 1 */
 
