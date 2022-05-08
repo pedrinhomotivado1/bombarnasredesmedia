@@ -50,5 +50,32 @@ function moreinfo6() {
    } else {
       document.querySelector('#button6').classList.remove('popup-on');
       document.querySelector('#button6').classList.add('popup-off');
+   }   
+}
+function moreinfo7() {
+   if (document.querySelector('#button7').classList.contains('popup-off')) {
+      document.querySelector('#button7').classList.remove('popup-off');
+      document.querySelector('#button7').classList.add('popup-on');
+   } else {
+      document.querySelector('#button7').classList.remove('popup-on');
+      document.querySelector('#button7').classList.add('popup-off');
    }
+}
+function moreinfo8() {
+   if (document.querySelector('#button8').classList.contains('popup-off')) {
+      document.querySelector('#button8').classList.remove('popup-off');
+      document.querySelector('#button8').classList.add('popup-on');
+   } else {
+      document.querySelector('#button8').classList.remove('popup-on');
+      document.querySelector('#button8').classList.add('popup-off');
+   }
+}
+function moreinfo9() {
+   if (document.querySelector('#button9').classList.contains('popup-off')) {
+      document.querySelector('#button9').classList.remove('popup-off');
+      document.querySelector('#button9').classList.add('popup-on');
+   } else {
+      document.querySelector('#button9').classList.remove('popup-on');
+      document.querySelector('#button9').classList.add('popup-off');
+   }   
 }
