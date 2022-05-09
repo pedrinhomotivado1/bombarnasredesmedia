@@ -79,3 +79,66 @@ function moreinfo9() {
       document.querySelector('#button9').classList.add('popup-off');
    }   
 }
+function moreinfo10() {
+   if (document.querySelector('#button10').classList.contains('popup-off')) {
+      document.querySelector('#button10').classList.remove('popup-off');
+      document.querySelector('#button10').classList.add('popup-on');
+   } else {
+      document.querySelector('#button10').classList.remove('popup-on');
+      document.querySelector('#button10').classList.add('popup-off');
+   }   
+}
+function moreinfo11() {
+   if (document.querySelector('#button11').classList.contains('popup-off')) {
+      document.querySelector('#button11').classList.remove('popup-off');
+      document.querySelector('#button11').classList.add('popup-on');
+   } else {
+      document.querySelector('#button11').classList.remove('popup-on');
+      document.querySelector('#button11').classList.add('popup-off');
+   }   
+}
+function moreinfo12() {
+   if (document.querySelector('#button12').classList.contains('popup-off')) {
+      document.querySelector('#button12').classList.remove('popup-off');
+      document.querySelector('#button12').classList.add('popup-on');
+   } else {
+      document.querySelector('#button12').classList.remove('popup-on');
+      document.querySelector('#button12').classList.add('popup-off');
+   }   
+}
+function moreinfo13() {
+   if (document.querySelector('#button13').classList.contains('popup-off')) {
+      document.querySelector('#button13').classList.remove('popup-off');
+      document.querySelector('#button13').classList.add('popup-on');
+   } else {
+      document.querySelector('#button13').classList.remove('popup-on');
+      document.querySelector('#button13').classList.add('popup-off');
+   }   
+}
+function moreinfo14() {
+   if (document.querySelector('#button14').classList.contains('popup-off')) {
+      document.querySelector('#button14').classList.remove('popup-off');
+      document.querySelector('#button14').classList.add('popup-on');
+   } else {
+      document.querySelector('#button14').classList.remove('popup-on');
+      document.querySelector('#button14').classList.add('popup-off');
+   }   
+}
+function moreinfo15() {
+   if (document.querySelector('#button15').classList.contains('popup-off')) {
+      document.querySelector('#button15').classList.remove('popup-off');
+      document.querySelector('#button15').classList.add('popup-on');
+   } else {
+      document.querySelector('#button15').classList.remove('popup-on');
+      document.querySelector('#button15').classList.add('popup-off');
+   }   
+}
+function moreinfo16() {
+   if (document.querySelector('#button16').classList.contains('popup-off')) {
+      document.querySelector('#button16').classList.remove('popup-off');
+      document.querySelector('#button16').classList.add('popup-on');
+   } else {
+      document.querySelector('#button16').classList.remove('popup-on');
+      document.querySelector('#button16').classList.add('popup-off');
+   }   
+}
