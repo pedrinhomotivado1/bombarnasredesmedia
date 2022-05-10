@@ -250,12 +250,37 @@ footer {
       height: auto;
       font-size: 30px;
    }
+   .title-header {
+      font-size: 30px;
+      text-align: center;
+   }
    .logo img {
       display: none;
+   }
+   .menu-area--geral {
+      margin: 10px;
+   }
+   .menu-area ul {
+      display:flex;
+      align-items: center;
+      font-size: 13px;
+      padding: 0;
+   }
+   .menu-area li {
+      margin-bottom: 15px;
+      margin-top: 15px;
+   }
+   .menu-itens {
+      margin: 0;
+   }
+   .menu-itens a {
+      padding: 10px;
+      margin: 5px;
    }
    .section-area1 {
       flex-direction: column;
       height: auto;
+      width: auto;
    }
    .services-area {
       margin-left: 20px;
@@ -265,6 +290,26 @@ footer {
    .open-desc {
       margin: 20px;
    }
-
+   .banner1-left  {
+      text-align: center;
+      padding: 0px 30px;
+   }
+   .banner1-left h1 {
+      font-size: 20px;
+      font-weight: bold;
+   }
+   .banner1-left p {
+      font-size: 15px;
+   }
+   .title-banner {
+      font-size: 20px;
+   }
+   .area-depoiment img {
+      width: 240px;
+   }
+   .section-titles h4 {
+      font-size: 15px;
+      margin-bottom: 10px;
+   }
 
 }
