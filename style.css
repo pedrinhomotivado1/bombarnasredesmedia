@@ -51,6 +51,7 @@ header {
    padding: 10px 20px;
    background-color: #efb810;
    border-radius: 5px;
+   transition: 1s;
 }
 .menu-itens a:hover {
    background-color: black;
@@ -143,6 +144,7 @@ header {
 
 .popup-off {
    display: none;
+   transition: 1s;
 }
 .popup-on {
    display: inline-flex;
@@ -154,6 +156,7 @@ header {
    align-items: center;
    border-radius: 10px;
    padding: 10px;
+   transition: 1s;
 }
 .open-desc {
    display: flex;
