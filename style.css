@@ -143,8 +143,8 @@ header {
 
 
 .popup-off {
-   display: none;
-   transition: 1s;
+   display: none;   
+   transition: 1s all ease;
 }
 .popup-on {
    display: inline-flex;
@@ -156,7 +156,7 @@ header {
    align-items: center;
    border-radius: 10px;
    padding: 10px;
-   transition: 1s;
+   transition: 1s all ease;
 }
 .open-desc {
    display: flex;
